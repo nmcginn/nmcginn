@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nmcginn/nmcginn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer currently working at Bayer.
 
-Here are some ideas to get you started:
+I spend most of my time working with typescript, C#, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a preference for working on infrastructure, architecture, and developer enablement.
+
+---
+
+ 🐦 [Twitter][twit]
+
+ 🏗️ [Stack Overflow][so]
+
+ 🖊️ [Blog][blog]
+
+ ---
+
+ ![marquee][marquee]
+
+[twit]: https://twitter.com/nmcginn_dev
+[so]: https://stackoverflow.com/users/1294624/nathan?tab=profile
+[blog]: https://nmcginn.com
+[marquee]: https://media.giphy.com/media/tZyxxR4lUIRnTgIzl9/giphy.gif
