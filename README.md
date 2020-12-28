@@ -16,9 +16,8 @@ I have a preference for working on infrastructure, architecture, and developer e
 
  ---
 
- ![marquee][marquee]
+<img src="https://media.giphy.com/media/tZyxxR4lUIRnTgIzl9/giphy.gif" width="50%">
 
 [twit]: https://twitter.com/nmcginn_dev
 [so]: https://stackoverflow.com/users/1294624/nathan?tab=profile
 [blog]: https://nmcginn.com
-[marquee]: https://media.giphy.com/media/tZyxxR4lUIRnTgIzl9/giphy.gif
